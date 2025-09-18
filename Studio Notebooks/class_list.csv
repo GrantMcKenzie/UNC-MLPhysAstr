@@ -1,0 +1,6 @@
+#Name (string),In our class? (Bool), favorite number (double), Preferred mode of contact for group work (string), Contact info (string)
+Name,In_448,Favorite_Num,Contact_Mode,Contact_Info
+Julieta Gruszko,TRUE,13,E-mail,jgruszko@unc.edu
+Santa Claus,FALSE,25,Letter,santa@north.pole
+Taylor Swift,FALSE,13,Instagram,@taylorswift
+Marie Curie,FALSE,88,Medium,N/A
